@@ -18,7 +18,7 @@ This ensures consistency in documentation and file organization across multiple 
 ## Example
 Run the script in a terminal:
 ```bash
-python "tworzenie blank folderu dla nowej lini.py"
+python "PLFG.py"
 Then enter a path such as:
 
 makefile
